@@ -1,0 +1,15 @@
+source 'https://github.com/Cocoapods/Specs.git'
+platform :ios, '8.0'
+
+workspace 'sdk_tests'
+xcodeproj 'sdk_tests'
+
+pod 'ADALiOS'
+
+pod 'orc'
+pod 'MSOutlook-SDK-iOS'
+pod 'MSOffice365-Discovery-SDK-iOS'
+pod 'MSOneNote-SDK-iOS'
+pod 'MSGraph-SDK-iOS'
+pod 'MSAADGraph-SDK-iOS'
+
